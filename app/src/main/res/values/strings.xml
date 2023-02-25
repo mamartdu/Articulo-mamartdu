@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Articulo</string>
+    <string name="title_jetpack_compose_tutorial">Jetpack Compose tutorial</string>
+    <string name="compose_short_desc">Lorem ipsum dolor sit amet consectetur adipiscing elit facilisi diam himenaeos, rhoncus per nascetur class nulla maecenas molestie justo quis, phasellus vehicula venenatis condimentum dis vel primis fames bibendum. Integer tortor vulputate neque egestas nulla nullam massa non, lobortis sem porta ante eu quisque duis dictumst vel, porttitor donec accumsan venenatis</string>
+    <string name="compose_long_desc">Lorem ipsum dolor sit amet consectetur adipiscing elit facilisi diam himenaeos, rhoncus per nascetur class nulla maecenas molestie justo quis, phasellus vehicula venenatis condimentum dis vel primis fames bibendum. Integer tortor vulputate neque egestas nulla nullam massa non, lobortis sem porta ante eu quisque duis dictumst vel, porttitor donec accumsan venenatis est imperdiet inceptos. Mattis lacinia sodales gravida praesent et aptent cum porttitor condimentum varius penatibus, ultrices dapibus sociis vitae vestibulum quisque libero ullamcorper tempor.</string>
+
+</resources>
